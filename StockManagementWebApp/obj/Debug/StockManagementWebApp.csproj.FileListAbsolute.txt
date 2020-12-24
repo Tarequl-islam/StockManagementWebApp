@@ -1,0 +1,24 @@
+D:\DOT NET\Workspace\2018.11.08\New folder\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+D:\DOT NET\Workspace\2018.11.08\New folder\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+D:\DOT NET\Workspace\2018.11.08\New folder\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+D:\DOT NET\Workspace\2018.11.08\New folder\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+D:\DOT NET\Workspace\2018.11.08\New folder\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+D:\DOT NET\Workspace\2018.11.08\New folder\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb
+C:\Users\TAREQ\Desktop\Project\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+C:\Users\TAREQ\Desktop\Project\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+C:\Users\TAREQ\Desktop\Project\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+C:\Users\TAREQ\Desktop\Project\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+C:\Users\TAREQ\Desktop\Project\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+C:\Users\TAREQ\Desktop\Project\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb
+C:\Users\TAREQ\Desktop\Main\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+C:\Users\TAREQ\Desktop\Main\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+C:\Users\TAREQ\Desktop\Main\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+C:\Users\TAREQ\Desktop\Main\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+C:\Users\TAREQ\Desktop\Main\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+C:\Users\TAREQ\Desktop\Main\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb
+D:\DOT NET\My Apps\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+D:\DOT NET\My Apps\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+D:\DOT NET\My Apps\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+D:\DOT NET\My Apps\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+D:\DOT NET\My Apps\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+D:\DOT NET\My Apps\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb
